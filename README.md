@@ -1,1 +1,1 @@
-first flutter app to book the bus ticket
+- first flutter app to book the bus ticket using the bus buddy
