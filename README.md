@@ -2,4 +2,4 @@
 - the user, admin and super admin login is not set
 - only the user and admin page is set
 - not able to connect the flutter app 
-- tring to make the rest api
+- tring to make the rest api that is sutable for the flutter app
